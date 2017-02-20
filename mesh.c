@@ -1,5 +1,5 @@
 #include<stdlib.h>
-#include<stdio.h>
+
 #include<GL/glut.h>
 #define dx 10
 #define dy 10
